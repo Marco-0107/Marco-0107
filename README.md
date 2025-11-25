@@ -6,7 +6,7 @@
 
 - 👨‍💻 Estudiante de **Ingeniería Civil en Informática** — Universidad del Bío-Bío.
 - 🎓 Titulado en **Técnico de Nivel Medio en Administración mención Recursos Humanos**.
-- 💼 Actualmente trabajando en **[Nolan AI Software Limitada](https://nolanai.cl/)**.
+- 💼 Actualmente trabajando de Desarollador Full Stack en **[Nolan AI Software Limitada](https://nolanai.cl/)**.
 - 🧑‍🏫 Profesor ayudante de la asignatura **Ingeniería de Software**, realizando clases prácticas.
 - 👨‍👩‍👧 Padre de un pequeño de 5 años — mi mayor motivación.
 - 🚀 Aficionado en **Desarrollo de Software**, **Inteligencia Artificial**, **Ciberseguridad** y **Realidad Virtual**.
