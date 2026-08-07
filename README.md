@@ -11,7 +11,7 @@
 - Estudiante Tesista de **Ingeniería Civil en Informática** — Universidad del Bío-Bío.
 - Titulado en **Técnico de Nivel Medio en Administración mención Recursos Humanos**.
 - Actualmente trabajando como Desarrollador Full Stack en **[Nolan AI Software Limitada](https://nolanai.cl/)**.
-- Profesor ayudante de las carreras **Ingeniería Civil en Informática** e **Ingeniería en Ejecución y Computación Informática** para las asignaturas **Ingeniería de Software** y **Metodologías de Desarrollo** de la Universidad del Bío-Bío, realizando clases prácticas.
+- Fuí durante 1 año ayudante de las carreras **Ingeniería Civil en Informática** e **Ingeniería en Ejecución y Computación Informática** para las asignaturas **Ingeniería de Software** y **Metodologías de Desarrollo** de la Universidad del Bío-Bío, realizando clases prácticas.
 - Padre de un niño de 6 años — mi mayor motivación.
 - Interesado en **Ingeniería de Software**, **Desarrollo de Software**, **Inteligencia Artificial**, **Ciberseguridad** y **Realidad Virtual**.
 
